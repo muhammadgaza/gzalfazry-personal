@@ -1,0 +1,73 @@
+body{
+    background-color: darkgray;
+}
+
+.profil {
+    background-color: darkolivegreen;
+    font-size: 50px;
+    font-family: 'Gluten', cursive;
+}
+
+.pengenalan img {
+    padding-right: 20px;
+}
+
+.pengenalan {
+    padding-right: 30px;
+    font-size: 40px;
+   font-family: 'Balsamiq Sans', sans-serif;
+}
+
+.dua {
+    font-family: 'Gluten', cursive;
+    animation: fadeInLeft animated;
+}
+
+.satu {
+    background-color: darkolivegreen;
+    font-size: 30px;
+    font-family: 'Italianno', cursive;
+    animation-timing-function: ease-in;
+}
+
+.container-logo {
+        display: flex;
+        justify-content: center;
+     }
+     .yahay {
+        background-color: darkolivegreen;
+        font-size: 50px;
+        font-family: 'Gluten', cursive;
+     }
+     .enam {
+        background-color: darkolivegreen;
+        font-size: 20px;
+        font-family: 'Gluten', cursive;
+     }
+
+     .sepuluh {
+        width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        width: fit-content;
+        font-size: 30px;
+        font-family: 'Gemunu Libre', sans-serif;
+     }
+
+     .juan {
+        background-color: darkolivegreen;
+        font-size: 20px;
+        font-family: 'Gluten', cursive;
+     }
+     
+     .jaja {
+        width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        width: fit-content;
+        font-size: 30px;
+        font-family: 'Gemunu Libre', sans-serif;
+     }
+     
